@@ -1,6 +1,6 @@
 ---
 nav:
-    title: Components
+    title: components
 group:
     title: Basic
 toc: content
