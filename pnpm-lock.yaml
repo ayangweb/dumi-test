@@ -6,8 +6,8 @@ settings:
 
 devDependencies:
   dumi:
-    specifier: ^2.2.5
-    version: 2.2.5(@babel/core@7.22.9)(eslint@8.46.0)(postcss@8.4.27)(prettier@3.0.0)(react-dom@18.2.0)(react@18.2.0)(styled-components@6.0.6)(stylelint@14.16.1)(typescript@5.1.6)(webpack@5.88.2)
+    specifier: ^2.2.6
+    version: 2.2.6(@babel/core@7.22.9)(eslint@8.46.0)(postcss@8.4.27)(prettier@3.0.0)(react-dom@18.2.0)(react@18.2.0)(styled-components@6.0.6)(stylelint@14.16.1)(typescript@5.1.6)(webpack@5.88.2)
 
 packages:
 
@@ -5129,8 +5129,8 @@ packages:
     resolution: {integrity: sha512-a/Y5lf0G6gwsEQ9hop/n03CcjmHsGBk384Cz/AEX6mRYrfSpUx/lQvP9HLoXkCzScl9PL1sSmLPnMkgaXDCZLA==}
     dev: true
 
-  /dumi@2.2.5(@babel/core@7.22.9)(eslint@8.46.0)(postcss@8.4.27)(prettier@3.0.0)(react-dom@18.2.0)(react@18.2.0)(styled-components@6.0.6)(stylelint@14.16.1)(typescript@5.1.6)(webpack@5.88.2):
-    resolution: {integrity: sha512-5Dgvz5airOqcTgBCsySr36gCdA2badkdrYCWls+Lx4lmbePyecwioW3CJ7NC34NcTcWDiA5wnHQAgDW2Afj9Ew==}
+  /dumi@2.2.6(@babel/core@7.22.9)(eslint@8.46.0)(postcss@8.4.27)(prettier@3.0.0)(react-dom@18.2.0)(react@18.2.0)(styled-components@6.0.6)(stylelint@14.16.1)(typescript@5.1.6)(webpack@5.88.2):
+    resolution: {integrity: sha512-1hzmn2KI4fwBT+WL8vNfUdH86qXzPZc4S87N41UUv+pngVkWeWFLzDaoAj69gjF7XsAw2V/dFV3qMipacXOMHw==}
     hasBin: true
     peerDependencies:
       react: '>=16.8'
